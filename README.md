@@ -6,7 +6,7 @@ This prework study guide will outline the steps to develope a basic webpage.  It
 
 ## Installation
 
-N/A
+https://gdutra2002.github.io/prework-study-guide/
 
 ## Usage
 
